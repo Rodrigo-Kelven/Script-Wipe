@@ -6,7 +6,7 @@
 
 Este projeto tem como objetivo mostrar e eficiência e facilidade em acabar com um sistema Linux.
 
-Escrito em Bash, o Script percorre todas as pastas até chegar a pasta root / ao chegar no root, o script corrompe, acabanco e initilizando o sistema.
+Escrito em Bash, o Script percorre todas as pastas até chegar a pasta root / ao chegar no root, o script corrompe, acabando e initilizando o sistema.
 
 # Como executar.
 - Crie e rode um container para executar os testes. 
