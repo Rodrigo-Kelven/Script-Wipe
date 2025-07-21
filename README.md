@@ -4,7 +4,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-Este projeto tem como objetivo mostrar e eficiência e facilidade em acabar com um sistema Linux.
+Este projeto tem como objetivo mostrar e eficiência e facilidade em acabar com um sistema Linux inseguro!.
 
 Escrito em Bash, o Script percorre todas as pastas até chegar a pasta root / ao chegar no root, o script corrompe, acabando e initilizando o sistema.
 
